@@ -27,7 +27,7 @@ Hospitals in Wisconsin, Kansas and Pennsylvania all have the highest response ra
 higher than that of their counterparts in the south. The same also applies to positive feedbacks where more Top-box responses are obtained from the north. Out of all the 10 Measure IDs, hospitals in SD 
 scored have the highest positive feedbacks in 5 Measure IDs.
 
-Recommendations
+## Recommendations
 
 Hospitals in Wisconsin, Kansas and Pennsylvania with highest response rates need to be studied in order to replicate the feat in other hospitals across the country. Discharge information, communication 
 with doctors and nurses have all been receiving a lot of the most positive feedbacks. However, urgent attention is needed to make sure that excellent care transitions are being delivered to patients in
